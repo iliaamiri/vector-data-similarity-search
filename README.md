@@ -1,3 +1,10 @@
+# Summary
+This is an experimentation with vector data and similarity searching (Cosine similarity) 
+using open-source models and ChromaDB.
+
+# Step-by-step setup guide
+Follow each step in order to setup and run.
+
 ### Clone
 ```bash
 git clone https://github.com/iliaamiri/vector-data-similarity-search.git 
